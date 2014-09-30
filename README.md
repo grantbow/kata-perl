@@ -1,4 +1,5 @@
 kata-perl
 =========
 
-coding practice
+coding practice exercises in Test Driven Design (TDD).
+
